@@ -3,5 +3,6 @@
 def display_board(board)
   separator = "|"
   lines = "-----------"
-  puts "   "
+  puts "   #{separator}   #{separator}   #{separator}"
+  puts ""
 end 
